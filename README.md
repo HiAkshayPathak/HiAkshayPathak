@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiAkshayPathak
+- 👋 Hi, I’m Akshay Pathak
 - 👀 I’m interested in learning power bi
 - 🌱 I’m currently learning data analyst
 - 💞️ I’m looking to collaborate on ...
